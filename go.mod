@@ -1,3 +1,3 @@
-module example.com/user/hello
+module example.com/user/tictactoe
 
 go 1.22.0
